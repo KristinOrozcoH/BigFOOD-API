@@ -55,7 +55,7 @@ Antes de ejecutar el proyecto, se debe configurar:
 1. Abrir la solución en Visual Studio  
 2. Restaurar paquetes NuGet  
 3. Ejecutar la API  
-4. Acceder a Swagger para probar endpoints  
+
 
 ---
 
@@ -65,7 +65,10 @@ Antes de ejecutar el proyecto, se debe configurar:
   - API de seguridad
   - Aplicación de escritorio
 
-- El enfoque principal es demostrar conocimientos en desarrollo backend, consumo de APIs y organización de proyectos.
+## Estado del proyecto
+
+Este proyecto se encuentra actualmente en mantenimiento activo.
+Las mejoras incluyen la corrección de errores y el perfeccionamiento de la arquitectura del backend.
 
 ---
 
